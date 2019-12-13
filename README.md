@@ -11,3 +11,6 @@ https://github.com/junegunn/vim-plug
 * Copy `colors/onedark.vim` to `~/.vim/colors/onedark.vim`
 
 * Copy `autoload/onedark.vim` to `~/.vim/autoload/onedark.vim`
+
+* Enter `Vim editor` and run `:PluginInstall`
+
